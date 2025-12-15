@@ -1,0 +1,13 @@
+﻿{
+  "agents": [
+    "echo",
+    "infinity-prime",
+    "vision-cortex",
+    "gateway",
+    "github-operator",
+    "vertex-collaborator",
+    "workspace-daemon"
+  ],
+  "communication": "bi-directional",
+  "persistence": "always-on"
+}

@@ -1,0 +1,24 @@
+﻿{
+  "schema_version": "v1",
+  "name": "Infinity Prime Autonomy",
+  "description": "Full autonomous control plane",
+  "actions": [
+    { "name": "read_file", "type": "filesystem" },
+    { "name": "write_file", "type": "filesystem" },
+    { "name": "edit_code", "type": "filesystem" },
+
+    { "name": "github_commit", "type": "github" },
+    { "name": "github_create_repo", "type": "github" },
+
+    { "name": "cloud_run_deploy", "type": "gcp" },
+    { "name": "cloud_run_scale", "type": "gcp" },
+
+    { "name": "vertex_invoke", "type": "gcp" },
+    { "name": "gemini_invoke", "type": "gcp" },
+
+    { "name": "workspace_docs", "type": "google" },
+    { "name": "workspace_sheets", "type": "google" },
+    { "name": "workspace_gmail", "type": "google" },
+    { "name": "workspace_calendar", "type": "google" }
+  ]
+}

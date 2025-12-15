@@ -1,0 +1,5 @@
+﻿{
+  "repo": "real-intel-system",
+  "status": "synced",
+  "timestamp": "'$(Get-Date -Format o)'"
+}

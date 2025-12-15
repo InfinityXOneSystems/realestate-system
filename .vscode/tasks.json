@@ -1,0 +1,11 @@
+﻿{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Prime: Full Validation",
+      "type": "shell",
+      "command": "python scripts/prime/full_validation.py",
+      "group": "build"
+    }
+  ]
+}

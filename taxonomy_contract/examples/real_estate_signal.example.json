@@ -1,0 +1,8 @@
+﻿{
+  "type": "distressed_property",
+  "address": "123 Foreclosure Ave, FL",
+  "signal": "tax_delinquent",
+  "confidence": 0.97,
+  "source": "crawler",
+  "timestamp": "2025-01-01T00:00:00Z"
+}

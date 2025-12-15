@@ -1,4 +1,4 @@
-﻿{
+{
   "python.defaultInterpreterPath": "python",
   "python.analysis.typeCheckingMode": "basic",
   "editor.formatOnSave": true,

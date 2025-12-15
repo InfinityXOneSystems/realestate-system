@@ -1,4 +1,4 @@
-﻿# AUTONOMOUS WORKFLOWS
+# AUTONOMOUS WORKFLOWS
 
 1. Ingest data
 2. Validate schema

@@ -1,4 +1,4 @@
-﻿# AUTOMATION POLICY
+# AUTOMATION POLICY
 
 Rules:
 - No destructive actions

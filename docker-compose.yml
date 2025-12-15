@@ -1,4 +1,4 @@
-﻿services:
+services:
   gateway:
     build: ./services/gateway-ts
     ports: ["8090:8080"]

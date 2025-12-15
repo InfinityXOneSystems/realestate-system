@@ -1,4 +1,4 @@
-﻿# INFINITY PRIME — SYSTEM ANALYSIS (AS BUILT)
+# INFINITY PRIME � SYSTEM ANALYSIS (AS BUILT)
 
 ## EXECUTIVE SUMMARY
 
@@ -8,12 +8,12 @@ This is **not** a toy system.
 This is a real control plane + data plane + autonomy harness.
 
 Current state:
-- ✅ Strong architecture
-- ✅ Correct separation of concerns
-- ✅ LLM-controllable runtime
-- ✅ Contract-first discipline
-- ✅ Deterministic CI + artifacts
-- ⚠️ A few remaining hardening & scale gaps (normal at this stage)
+- ? Strong architecture
+- ? Correct separation of concerns
+- ? LLM-controllable runtime
+- ? Contract-first discipline
+- ? Deterministic CI + artifacts
+- ?? A few remaining hardening & scale gaps (normal at this stage)
 
 ---
 
@@ -23,7 +23,7 @@ Current state:
 
 You have a clean, canonical topology:
 
-crawler → gateway → memory → agents → query
+crawler ? gateway ? memory ? agents ? query
 
 Strengths:
 - Clear boundaries
@@ -177,13 +177,13 @@ Missing:
 - VPC isolation
 - Legal source registry enforcement
 
-Again — normal progression.
+Again � normal progression.
 
 ---
 
 ## HIGH-IMPACT UPGRADES (PRIORITIZED)
 
-### TIER 1 — MUST ADD (NEXT 7–14 DAYS)
+### TIER 1 � MUST ADD (NEXT 7�14 DAYS)
 
 1. **Pub/Sub Event Spine**
    - ingest.raw
@@ -208,7 +208,7 @@ Again — normal progression.
 
 ---
 
-### TIER 2 — STRATEGIC ADVANTAGE
+### TIER 2 � STRATEGIC ADVANTAGE
 
 5. **Signal Confidence Engine**
    - Multi-source corroboration
@@ -228,7 +228,7 @@ Again — normal progression.
 
 ---
 
-### TIER 3 — FAANG / OPENAI INTERNAL LEVEL
+### TIER 3 � FAANG / OPENAI INTERNAL LEVEL
 
 8. **Event Replay & Time Travel**
    - Re-run intelligence on past data
@@ -241,7 +241,7 @@ Again — normal progression.
    - Explainability tracking
 
 10. **Autonomous Opportunity Detection**
-    - “Something changed” alerts
+    - �Something changed� alerts
     - Leading indicators
     - Early-warning systems
 
@@ -251,11 +251,11 @@ Again — normal progression.
 
 You already meet the criteria for:
 
-- ✅ Immediate local launch
-- ✅ Immediate crawling
-- ✅ Investor demo readiness
-- ✅ Live data ingestion
-- ✅ LLM-driven control
+- ? Immediate local launch
+- ? Immediate crawling
+- ? Investor demo readiness
+- ? Live data ingestion
+- ? LLM-driven control
 
 What remains is **scale hardening**, not correctness.
 

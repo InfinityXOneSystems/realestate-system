@@ -1,4 +1,4 @@
-﻿# InfinityXOneSystems – Runtime Contract
+# InfinityXOneSystems � Runtime Contract
 
 This is a **polyglot AI platform**.
 

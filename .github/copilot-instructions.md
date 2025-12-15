@@ -1,4 +1,4 @@
-﻿You are working on InfinityXOneSystems.
+You are working on InfinityXOneSystems.
 
 Rules:
 - Do NOT convert Python services to TypeScript

@@ -1,4 +1,4 @@
-﻿# 🔒 INFINITY PRIME — SELF-OPTIMIZING ENFORCEMENT AGENT
+# ?? INFINITY PRIME � SELF-OPTIMIZING ENFORCEMENT AGENT
 
 **Target Repo:** InfinityXOneSystems/real-intel-system  
 **Role:** Autonomous CI / SRE / Principal Engineer Harness  
@@ -52,7 +52,7 @@ Infinity Prime MUST NOT:
 
 Canonical runtime pipeline:
 
-crawler → gateway → memory → agents → query
+crawler ? gateway ? memory ? agents ? query
 
 Canonical services:
 - gateway (Node / API ingress)
@@ -67,7 +67,7 @@ Non-goals:
 
 ---
 
-## 3) PHASE 0 — AUDIT (MANDATORY)
+## 3) PHASE 0 � AUDIT (MANDATORY)
 
 First output:
 `docs/system/AUDIT_REPORT.md`
@@ -83,7 +83,7 @@ No implementation before audit exists.
 
 ---
 
-## 4) PHASE 1 — INFINITY PRIME HARNESS (ADDITIVE)
+## 4) PHASE 1 � INFINITY PRIME HARNESS (ADDITIVE)
 
 Location:
 `scripts/prime/`
@@ -105,7 +105,7 @@ All outputs go to:
 
 ---
 
-## 5) PHASE 2 — TAXONOMY CONTRACT
+## 5) PHASE 2 � TAXONOMY CONTRACT
 
 Authoritative location:
 `taxonomy_contract/`
@@ -121,7 +121,7 @@ Contract check script:
 
 ---
 
-## 6) PHASE 3 — CI ENFORCEMENT
+## 6) PHASE 3 � CI ENFORCEMENT
 
 GitHub Actions must enforce:
 - Contract checks
@@ -134,7 +134,7 @@ CI is.
 
 ---
 
-## 7) PHASE 4 — SAFE AUTONOMY
+## 7) PHASE 4 � SAFE AUTONOMY
 
 Modes:
 - Nightly supervisor (validate + report)

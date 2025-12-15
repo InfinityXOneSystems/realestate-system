@@ -1,4 +1,4 @@
-﻿{
+{
   "providers": {
     "chatgpt": { "type": "llm", "actions": "llm/actions/openapi.yaml" },
     "vscode_copilot": { "type": "ide" },

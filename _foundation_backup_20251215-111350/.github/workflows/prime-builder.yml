@@ -1,4 +1,4 @@
-﻿name: Prime Builder
+name: Prime Builder
 on:
   workflow_dispatch:
 jobs:

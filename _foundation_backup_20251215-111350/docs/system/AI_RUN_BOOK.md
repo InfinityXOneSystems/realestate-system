@@ -1,4 +1,4 @@
-﻿# AI RUN BOOK
+# AI RUN BOOK
 
 Triggers:
 - New data ingestion

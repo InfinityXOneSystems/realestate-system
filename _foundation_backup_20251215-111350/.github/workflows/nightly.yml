@@ -1,4 +1,4 @@
-﻿name: Nightly
+name: Nightly
 on:
   schedule:
     - cron: "0 2 * * *"

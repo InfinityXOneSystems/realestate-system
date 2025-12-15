@@ -1,0 +1,10 @@
+﻿{
+  "llm_provider": "vertex_ai",
+  "model": "default",
+  "max_tokens": 4096,
+  "temperature": 0.2,
+  "timeouts": {
+    "request_seconds": 30,
+    "retry_max": 3
+  }
+}

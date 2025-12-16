@@ -1,0 +1,6 @@
+{
+    "name": "lint-agent.json",
+    "role": "ESLint / Ruff / MyPy enforcement",
+    "rule": "FAIL CLOSED — MUST PASS",
+    "authority": "BLOCK PIPELINE ON ERROR"
+}

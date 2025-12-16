@@ -1,0 +1,6 @@
+{
+    "name": "release-agent.json",
+    "role": "Artifact sealing & release",
+    "rule": "FAIL CLOSED — MUST PASS",
+    "authority": "BLOCK PIPELINE ON ERROR"
+}

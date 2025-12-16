@@ -1,0 +1,6 @@
+{
+    "name": "review-agent.json",
+    "role": "Policy & governance enforcement",
+    "rule": "FAIL CLOSED — MUST PASS",
+    "authority": "BLOCK PIPELINE ON ERROR"
+}

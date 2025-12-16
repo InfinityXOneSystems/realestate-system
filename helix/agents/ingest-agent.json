@@ -1,0 +1,6 @@
+{
+    "name": "ingest-agent.json",
+    "role": "Data ingestion & contract validation",
+    "rule": "FAIL CLOSED — MUST PASS",
+    "authority": "BLOCK PIPELINE ON ERROR"
+}

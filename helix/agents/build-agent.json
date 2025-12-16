@@ -1,0 +1,6 @@
+{
+    "name": "build-agent.json",
+    "role": "Code build & dependency resolution",
+    "rule": "FAIL CLOSED — MUST PASS",
+    "authority": "BLOCK PIPELINE ON ERROR"
+}

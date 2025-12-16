@@ -1,0 +1,6 @@
+{
+    "name": "docker-agent.json",
+    "role": "Dockerfile & image validation",
+    "rule": "FAIL CLOSED — MUST PASS",
+    "authority": "BLOCK PIPELINE ON ERROR"
+}

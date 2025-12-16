@@ -1,16 +1,5 @@
 services:
   gateway:
-    build: ./services/gateway-ts
-    ports: ["8090:8080"]
-    depends_on: [memory]
-
-  memory:
-    build: ./services/memory
-
-  agents:
-    build: ./services/agents
-    depends_on: [gateway]
-
+    build: ./services/gateway
   crawler:
     build: ./services/crawler
-    depends_on: [gateway]

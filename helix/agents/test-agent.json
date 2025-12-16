@@ -1,0 +1,6 @@
+{
+    "name": "test-agent.json",
+    "role": "Unit + integration tests",
+    "rule": "FAIL CLOSED — MUST PASS",
+    "authority": "BLOCK PIPELINE ON ERROR"
+}

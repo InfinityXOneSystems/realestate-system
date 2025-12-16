@@ -1,0 +1,6 @@
+{
+    "name": "cloud-agent.json",
+    "role": "GCP / Cloud Run compliance",
+    "rule": "FAIL CLOSED — MUST PASS",
+    "authority": "BLOCK PIPELINE ON ERROR"
+}

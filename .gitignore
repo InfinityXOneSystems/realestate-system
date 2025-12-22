@@ -6,3 +6,24 @@
 *.key
 *service-account*.json
 *credentials*.json
+# --- INFINITY XOS SECRET LOCK ---
+*.json
+.env
+.env.*
+credentials.json
+workspace-sa.json
+CredentialManager/
+
+# --- INFINITY-XOS SECRET LOCK ---
+*.json
+.env
+.env.*
+credentials.json
+workspace-sa.json
+CredentialManager/
+.secrets/
+scan_output/
+_repo_inspection/
+scripts/inspect-*
+scripts/schaffold/
+_foundation_backup_*
